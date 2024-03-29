@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed 
 - 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning  CS50
-- 💞️ I’m looking to collaborate with all the " TOPGUN" team.
+- 🌱 I’m currently studying Computer Science for Python Programming.  
+- 💞️ I want to collaborate with all OF YOU.
 - 📫 you can reach me at mohamedalboshey89@gmail.com
 
 <!---
