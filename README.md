@@ -26,5 +26,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)
 
 ## 🌐 Connect with Me
-📧 mohamed.email@example.com  
+📧 mohamedalboshey89@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-al-razek-950a00104)
