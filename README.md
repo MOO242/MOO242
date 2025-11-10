@@ -10,8 +10,8 @@
 - 📈 Translate business needs into data-driven strategies
 
 ## 📚 Currently Learning
-- IBM Data Science Certificate | MSc Computer Science (Heriot-Watt via Coursera)
-- Preparing for Google Data Scientist interviews with modular SQL/stats/product sense blocks
+- IBM Data Science Certificate
+
 
 ## 🧰 Tools & Skills
 `Python` `pandas` `NumPy` `Matplotlib` `Plotly` `SQL` `Jupyter` `Git` `R` `APIs` `Cloud Platforms`
