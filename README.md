@@ -4,7 +4,7 @@
 📍 Based in Dubai | Passionate about reproducible workflows and bilingual teaching
 
 ## 🚀 What I Do
-- 📊 Analyze global economic trends and visualize insights with Python
+- 📊 Analyse global economic trends and visualise insights with Python
 - 🧠 Build modular, reproducible teaching blocks in English and Arabic
 - 🧪 Explore ML models with fairness, bias detection, and diagnostic plotting
 - 📈 Translate business needs into data-driven strategies
