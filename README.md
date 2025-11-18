@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 - [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-) – Visual analysis using Python
-- IBM-Data-Science-Professional-Certificate-Capstone https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone.git
+- https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone.git - IBM-Data-Science-Professional-Certificate-Capstone
 
 ## 📊 GitHub Analytics Dashboard
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
