@@ -1,30 +1,53 @@
-# 👋 Hi, I'm Mohamed Al Razek
+# 👋 Hi, I'm Mohamed Al Razek  
 
-🎯 Self-Taught Data Scientist | Python Developer | Machine Learning Explorer  
-📍 Based in Dubai | Passionate about reproducible workflows and bilingual teaching
+🎯 Data Scientist | 🐍 Python Developer | 🤖 Machine Learning Explorer  
+📍 Based in Dubai | 🌐 Passionate about ML & AI
 
-## 🚀 What I Do
-- 📊 Analyse global economic trends and visualise insights with Python
-- 🧠 Build modular, reproducible teaching blocks in English and Arabic
-- 🧪 Explore ML models with fairness, bias detection, and diagnostic plotting
-- 📈 Translate business needs into data-driven strategies
+---
 
-## 📚 Currently Learning
-- IBM Data Science Certificate
+## 🚀 What I Do  
+- 📊 Transform raw datasets into clear, actionable insights for business and research impact  
+- 🧩 Build modular, bilingual (English & Arabic) resources that simplify complex data science concepts  
+- 🤖 Apply and tune machine learning models for classification, prediction, and diagnostic evaluation  
 
+---
 
-## 🧰 Tools & Skills
-`Python` `pandas` `NumPy` `Matplotlib` `Plotly` `SQL` `Jupyter` `Git` `R` `APIs` `Cloud Platforms`
+## 📚 Currently Learning  
+- 🎓 IBM Data Science Certificate  
+- 📊 Google Data Analytics Certificate  
+- 📈 Google Advanced Data Analytics Certificate  
 
-## 📂 Featured Projects
-- [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-) – Visual analysis using Python
-- https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone.git - IBM-Data-Science-Professional-Certificate-Capstone
+---
 
-## 📊 GitHub Analytics Dashboard
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOO242&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)
+## 🧰 Tools & Skills  
 
-## 🌐 Connect with Me
-📧 mohamedalboshey89@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-al-razek-950a00104)
+- 🐍 **Programming & Scripting:** Python, R, SQL  
+- 📊 **Data Handling:** pandas, NumPy, Excel, Structured References  
+- 📈 **Visualisation:** Matplotlib, Seaborn, Plotly, Power BI  
+- 🤖 **Machine Learning:** scikit-learn, GridSearchCV, Model Evaluation (LogReg, SVM, Decision Tree, KNN)  
+- 🔗 **APIs & Web:** RESTful APIs, HTML parsing, Web scraping  
+- ☁️ **Cloud & Platforms:** IBM Cloud, Google Cloud, Jupyter Notebooks  
+- 🔧 **Version Control & Workflow:** Git/GitHub, Modular pipelines, Reproducible workflows  
+
+---
+
+## 📊 My Data Science Projects  
+
+- 🌍 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-)  
+  *Visual analysis using Python (pandas, matplotlib, seaborn)*  
+
+- 🤖 [IBM Data Science Professional Certificate Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
+  *End-to-end workflow: data collection, EDA, machine learning models (LogReg, SVM, Decision Tree, KNN), and evaluation*  
+
+---
+
+## 📊 GitHub Analytics Dashboard  
+![🔥 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)  
+![💻 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOO242&layout=compact&theme=radical)  
+![⚡ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+📧 **Email:** mohamedalboshey89@gmail.com  
+🔗 **LinkedIn:** [Mohamed Al Razek](https://www.linkedin.com/in/mohamed-al-razek-950a00104)  
