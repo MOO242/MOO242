@@ -1,53 +1,60 @@
-# 👋 Hi, I'm Mohamed Al Razek  
+# 👋 Hi, I'm Mohamed
 
-🎯 Data Scientist | 🐍 Python Developer | 🤖 Machine Learning Explorer  
-📍 Based in Dubai | 🌐 Passionate about ML & AI
-
----
-
-## 🚀 What I Do  
-- 📊 Transform raw datasets into clear, actionable insights for business and research impact  
-- 🧩 Build modular, bilingual (English & Arabic) resources that simplify complex data science concepts  
-- 🤖 Apply and tune machine learning models for classification, prediction, and diagnostic evaluation  
+🎯 **Self‑Taught Data Scientist & Python Developer**  
+📍 Based in Dubai, UAE  
+📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress) | Google Advanced Data Analytics (upcoming) | Machine Learning Specialization (planned)  
 
 ---
 
-## 📚 Currently Learning  
-- 🎓 IBM Data Science Certificate  
-- 📊 Google Data Analytics Certificate  
-- 📈 Google Advanced Data Analytics Certificate  
+## 🚀 What I Do
+- Build **modular, reproducible workflows** for data wrangling, EDA, and predictive modeling  
+- Create **interactive dashboards** with Plotly Dash, Folium, and Power BI  
+- Design **bilingual (English + Arabic) teaching blocks** to empower learners and recruiters  
+- Apply **machine learning models** (LogReg, SVM, Decision Tree, KNN, Random Forest, XGBoost) with tuning and evaluation  
 
 ---
 
-## 🧰 Tools & Skills  
-
-- 🐍 **Programming & Scripting:** Python, R, SQL  
-- 📊 **Data Handling:** pandas, NumPy, Excel, Structured References  
-- 📈 **Visualisation:** Matplotlib, Seaborn, Plotly, Power BI  
-- 🤖 **Machine Learning:** scikit-learn, GridSearchCV, Model Evaluation (LogReg, SVM, Decision Tree, KNN)  
-- 🔗 **APIs & Web:** RESTful APIs, HTML parsing, Web scraping  
-- ☁️ **Cloud & Platforms:** IBM Cloud, Google Cloud, Jupyter Notebooks  
-- 🔧 **Version Control & Workflow:** Git/GitHub, Modular pipelines, Reproducible workflows  
+## 🛠️ Tools & Skills
+- **Languages:** Python, SQL, R  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit‑learn  
+- **Visualization:** Power BI, Tableau, Plotly Dash, Folium  
+- **Cloud:** AWS, Google Cloud, IBM Cloud  
+- **Other:** RESTful APIs, Web Scraping, Excel Automation  
 
 ---
 
-## 📊 My Data Science Projects  
+## 📂 Featured Projects
+- [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
+  *End‑to‑end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*  
 
-- 🌍 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-)  
-  *Visual analysis using Python (pandas, matplotlib, seaborn)*  
+- [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
+  *Data visualization project highlighting economic trends with Python & Plotly*  
 
-- 🤖 [IBM Data Science Professional Certificate Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
-  *End-to-end workflow: data collection, EDA, machine learning models (LogReg, SVM, Decision Tree, KNN), and evaluation*  
-
----
-
-## 📊 GitHub Analytics Dashboard  
-![🔥 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)  
-![💻 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOO242&layout=compact&theme=radical)  
-
+- [Interactive Dashboards](#) *(coming soon)*  
+  *Recruiter‑friendly dashboards with Plotly Dash and Tableau*  
 
 ---
 
-## 🌐 Connect with Me  
-📧 **Email:** mohamedalboshey89@gmail.com  
-🔗 **LinkedIn:** [Mohamed Al Razek](https://www.linkedin.com/in/mohamed-al-razek-950a00104)  
+## 🎓 Certificates
+- ✅ IBM Data Science Professional Certificate  
+- 🎯 Google Data Analytics (in progress)  
+- 🚀 Google Advanced Data Analytics (upcoming)  
+- 📚 Machine Learning Specialization (planned)  
+
+---
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- [GitHub](https://github.com/MOO242)  
+
+---
+
+## 🌍 Bilingual Teaching Blocks
+I create **English + Arabic resources** to make data science accessible:  
+- 📊 EDA workflows explained step‑by‑step  
+- 🤖 Classification model comparisons (LogReg vs SVM vs Tree)  
+- 🗂 Recruiter‑friendly portfolio templates  
+
+---
+
+✨ *Persistent, strategic, and teacher‑minded — I thrive on clarity, reproducibility, and empowering others through data science.*
