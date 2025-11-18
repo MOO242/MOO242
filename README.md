@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 - [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-) – Visual analysis using Python
-- [Portfolio Template](https://github.com/MOO242/Mohamed-s-Portfolio-) – Starter for bilingual, recruiter-facing branding
+- IBM-Data-Science-Professional-Certificate-Capstone (https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone.git)
 
 ## 📊 GitHub Analytics Dashboard
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
