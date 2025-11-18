@@ -44,7 +44,7 @@
 ## 📊 GitHub Analytics Dashboard  
 ![🔥 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)  
 ![💻 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOO242&layout=compact&theme=radical)  
-![⚡ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)  
+
 
 ---
 
