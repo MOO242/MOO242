@@ -2,7 +2,7 @@
 
 🎯 **Self‑Taught Data Scientist & Python Developer**  
 📍 Based in Dubai, UAE  
-📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress) | Google Advanced Data Analytics (upcoming) | Machine Learning Specialization (planned)  
+📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress) 
 
 ---
 
@@ -38,8 +38,6 @@
 ## 🎓 Certificates
 - ✅ IBM Data Science Professional Certificate  
 - 🎯 Google Data Analytics (in progress)  
-- 🚀 Google Advanced Data Analytics (upcoming)  
-- 📚 Machine Learning Specialization (planned)  
 
 ---
 
