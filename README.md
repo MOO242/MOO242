@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed
+# 👋 Hi, I'm Mohamed Al Razek
 
 🎯 **Self‑Taught Data Scientist & Python Developer**  
 📍 Based in Dubai, UAE  
