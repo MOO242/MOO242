@@ -35,22 +35,6 @@
 
 ---
 
-## 📂 Featured Projects
-- [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
-  *End‑to‑end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*  
-
-- [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
-  *Data visualization project highlighting economic trends with Python & Plotly*  
-
-
----
-
-## 🎓 Certificates
-- ✅ IBM Data Science Professional Certificate  
-- 🎯 Google Data Analytics (in progress)  
-
----
-
 ## 📬 Let's Stay Connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-al-razek-950a00104) 
