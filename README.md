@@ -61,6 +61,6 @@
 
 ## 🟩 GitHub Contribution Graph
 
-<img src="https://raw.githubusercontent.com/MOO242/MOO242/main/assets/contributions.png" width="100%">
+![GitHub Contribution Graph](https://raw.githubusercontent.com/MOO242/MOO242/main/assets/contributions.png)
 
 ✨ Persistent, strategic, and a problem-solver — empowering others through data science.
