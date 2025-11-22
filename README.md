@@ -6,12 +6,8 @@
 📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress)  
 
 <p align="left">
-  <img src="https://your-image-url.com/image.png" alt="Your Image" width="250" align="right">
-  👋 Hi, I'm Mohamed Al Razek  
-  🎯 Self‑Taught Data Scientist & Python Developer  
-  📍 Based in Dubai, UAE  
-  📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress)  
-</p>
+  <img src="[https://your-image-url.com/image.png](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Your Image" width="250" align="right">
+ </p>
 
 ---
 
