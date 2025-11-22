@@ -10,7 +10,7 @@
       🧠 Self-Taught Data Scientist & Python Developer<br>
       📍 Based in Dubai, UAE<br>
       📊 Certified IBM Data Science Professional Certificate<br>
-      🎯 Google Data Analytics (in progress)
+      📂 Featured Projects https://github.com/MOO242/Mohamed-s-Portfolio-
     </p>
   </div>
   <div style="flex: 1;">
