@@ -1,6 +1,9 @@
 <img src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" alt="Header" width="100%" height="200">
 
+
+
 <p align="left">
+  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250" align="right">
   👋 Hi, I'm Mohamed Al Razek  
   🎯 Self‑Taught Data Scientist & Python Developer  
@@ -8,7 +11,6 @@
   📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress)  
 </p>
 
----
 
 ## 🚀 What I Do
 - Build **modular, reproducible workflows** for data wrangling, EDA, and predictive modeling  
