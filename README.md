@@ -60,18 +60,8 @@
 
 ## 📬 Let's Stay Connected
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-al-razek-950a00104) 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-black?style=for-the-badge&logo=github)](https://github.com/MOO242)  
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:mohamedalboshey89@gmail.com)
 
----
 
-## 🌍 Bilingual Teaching Blocks
-I create **English + Arabic resources** to make data science accessible:  
-- 📊 EDA workflows explained step‑by‑step  
-- 🤖 Classification model comparisons (LogReg vs SVM vs Tree)  
-- 🗂 Recruiter‑friendly portfolio templates  
-
----
-
-✨ *Persistent, strategic, and teacher‑minded — I thrive on clarity, reproducibility, and empowering others through data science.*
