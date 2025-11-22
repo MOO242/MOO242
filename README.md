@@ -55,4 +55,5 @@
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:mohamedalboshey89@gmail.com)
 
 ---
-✨ Persistent, strategic, and teacher‑minded — empowering others through data science.
+
+✨ Persistent, strategic, and a problem-solver — empowering others through data science.
