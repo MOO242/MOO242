@@ -11,6 +11,9 @@
 
 ---
 
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
+
+
 ## 🧠 Technical Skills
 
 ### 💻 Programming & Data
