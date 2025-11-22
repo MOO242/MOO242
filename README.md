@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/MOO242/MOO242/main/assets/banner.png)
+<img src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" alt="Header" width="100%" height="200">
 
 # 👋 Hi, I'm Mohamed Al Razek
 
