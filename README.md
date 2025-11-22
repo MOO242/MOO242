@@ -27,6 +27,9 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## 📂 Featured Projects
 - [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
   *End‑to‑end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*  
