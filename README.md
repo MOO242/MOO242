@@ -1,3 +1,5 @@
+![Header](https://your-image-url.com/banner.png)
+
 # 👋 Hi, I'm Mohamed Al Razek
 
 🎯 **Self‑Taught Data Scientist & Python Developer**  
@@ -13,6 +15,8 @@
 - Apply **machine learning models** (LogReg, SVM, Decision Tree, KNN, Random Forest, XGBoost) with tuning and evaluation  
 
 ---
+
+![Coding GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
 
 ## 🛠️ Tools & Skills
 - **Languages:** Python, SQL, R  
