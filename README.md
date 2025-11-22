@@ -2,7 +2,7 @@
 
 
 
-<table>
+
   <tr>
     <td>
       <h3>👋 Hi, I'm Mohamed Al Razek</h3>
@@ -15,7 +15,7 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
     </td>
   </tr>
-</table>
+
 
 
 
