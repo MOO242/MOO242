@@ -11,10 +11,6 @@
 
 ---
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)
-
-
 ## 🧠 Technical Skills
 
 ### 💻 Programming & Data
@@ -59,5 +55,13 @@
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:mohamedalboshey89@gmail.com)
 
 ---
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)
+
+## 🟩 GitHub Contribution Graph
+
+<img src="https://raw.githubusercontent.com/MOO242/MOO242/main/assets/contributions.png" width="100%">
+
 
 ✨ Persistent, strategic, and a problem-solver — empowering others through data science.
