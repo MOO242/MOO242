@@ -1,7 +1,8 @@
 <img src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" alt="Header" width="100%" height="200">
 
 # 👋 Hi, I'm Mohamed Al Razek
-
+                                                                                                                                       
+                                                                                                                                        ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
 🎯 **Self‑Taught Data Scientist & Python Developer**  
 📍 Based in Dubai, UAE  
 📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress)  
@@ -13,10 +14,6 @@
 - Create **interactive dashboards** with Plotly Dash, Folium, and Power BI  
 - Design **bilingual (English + Arabic) teaching blocks** to empower learners and recruiters  
 - Apply **machine learning models** (LogReg, SVM, Decision Tree, KNN, Random Forest, XGBoost) with tuning and evaluation  
-
----
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -47,8 +44,6 @@
 - [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
   *Data visualization project highlighting economic trends with Python & Plotly*  
 
-- [Interactive Dashboards](#) *(coming soon)*  
-  *Recruiter‑friendly dashboards with Plotly Dash and Tableau*  
 
 ---
 
