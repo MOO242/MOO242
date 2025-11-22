@@ -3,18 +3,20 @@
 
 
 
-  <tr>
-    <td>
-      <h3>👋 Hi, I'm Mohamed Al Razek</h3>
-      <p>🧠 Self-Taught Data Scientist & Python Developer<br>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>👋 Hi, I'm Mohamed Al Razek</h3>
+    <p>
+      🧠 Self-Taught Data Scientist & Python Developer<br>
       📍 Based in Dubai, UAE<br>
       📊 Certified IBM Data Science Professional Certificate<br>
-      🎯 Google Data Analytics (in progress)</p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
-    </td>
-  </tr>
+      🎯 Google Data Analytics (in progress)
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
+  </div>
+</div>
 
 
 
