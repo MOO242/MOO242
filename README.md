@@ -3,20 +3,14 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h3>👋 Hi, I'm Mohamed Al Razek</h3>
-    <p>
-🧠 Self-Taught Data Scientist & Python Developer  
-📍 Based in Dubai, UAE  
-📊 Certified IBM Data Science Professional Certificate  
-📂 Featured Projects: [Mohamed's Portfolio](https://github.com/MOO242/Mohamed-s-Portfolio-)
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
-  </div>
-</div>
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250" align="right">
+  <h3>👋 Hi, I'm Mohamed Al Razek</h3>
+  🧠 Self-Taught Data Scientist & Python Developer<br>
+  📍 Based in Dubai, UAE<br>
+  📊 Certified IBM Data Science Professional Certificate<br>
+  📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
+</p>
 
 
 
