@@ -59,8 +59,5 @@
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)
 
-## 🟩 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://raw.githubusercontent.com/MOO242/MOO242/main/assets/contributions.png)
 
 ✨ Persistent, strategic, and a problem-solver — empowering others through data science.
