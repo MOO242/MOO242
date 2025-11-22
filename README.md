@@ -1,10 +1,10 @@
-![Header](https://your-image-url.com/banner.png)
+![Header](https://raw.githubusercontent.com/MOO242/MOO242/main/assets/banner.png)
 
 # 👋 Hi, I'm Mohamed Al Razek
 
 🎯 **Self‑Taught Data Scientist & Python Developer**  
 📍 Based in Dubai, UAE  
-📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress) 
+📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress)  
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🛠️ Tools & Skills
 - **Languages:** Python, SQL, R  
@@ -29,6 +29,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## 📂 Featured Projects
 - [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
