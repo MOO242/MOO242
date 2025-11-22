@@ -7,10 +7,10 @@
   <div style="flex: 1; padding-right: 20px;">
     <h3>👋 Hi, I'm Mohamed Al Razek</h3>
     <p>
-      🧠 Self-Taught Data Scientist & Python Developer<br>
-      📍 Based in Dubai, UAE<br>
-      📊 Certified IBM Data Science Professional Certificate<br>
-      📂 Featured Projects https://github.com/MOO242/Mohamed-s-Portfolio-
+🧠 Self-Taught Data Scientist & Python Developer  
+📍 Based in Dubai, UAE  
+📊 Certified IBM Data Science Professional Certificate  
+📂 Featured Projects: [Mohamed's Portfolio](https://github.com/MOO242/Mohamed-s-Portfolio-)
     </p>
   </div>
   <div style="flex: 1;">
