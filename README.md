@@ -12,13 +12,6 @@
 </p>
 
 
-## 🚀 What I Do
-- Build **modular, reproducible workflows** for data wrangling, EDA, and predictive modeling  
-- Create **interactive dashboards** with Plotly Dash, Folium, and Power BI  
-- Design **bilingual (English + Arabic) teaching blocks** to empower learners and recruiters  
-- Apply **machine learning models** (LogReg, SVM, Decision Tree, KNN, Random Forest, XGBoost) with tuning and evaluation  
-
----
 
 ## 🧠 Technical Skills
 
