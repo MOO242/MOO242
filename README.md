@@ -1,58 +1,46 @@
-# 👋 Hi, I'm Mohamed Al Razek
+# Hi, I'm Mohamed! 👋  
+Self‑Taught Data Scientist | Python Developer | SQL & R Specialist | AI & ML Explorer 🤖  
 
-🎯 **Self‑Taught Data Scientist & Python Developer**  
 📍 Based in Dubai, UAE  
-📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress) 
+📬 Contact me: [your email here]  
 
 ---
 
-## 🚀 What I Do
-- Build **modular, reproducible workflows** for data wrangling, EDA, and predictive modeling  
-- Create **interactive dashboards** with Plotly Dash, Folium, and Power BI  
-- Design **bilingual (English + Arabic) teaching blocks** to empower learners and recruiters  
-- Apply **machine learning models** (LogReg, SVM, Decision Tree, KNN, Random Forest, XGBoost) with tuning and evaluation  
+## 🚀 What I'm Working On
+- Building recruiter‑ready data science projects (Capstone, ML model comparisons, bilingual teaching blocks)  
+- Exploring cloud platforms (AWS, Google Cloud, IBM Cloud)  
+- Creating modular, bilingual (EN/AR) resources for learners  
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠️ Technical Skills
 - **Languages:** Python, SQL, R  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit‑learn  
-- **Visualization:** Power BI, Tableau, Plotly Dash, Folium  
-- **Cloud:** AWS, Google Cloud, IBM Cloud  
-- **Other:** RESTful APIs, Web Scraping, Excel Automation  
+- **Tools:** Power BI, RESTful APIs, Cloud (AWS, Google Cloud, IBM Cloud)  
+- **Specialties:** Data wrangling, predictive modeling, reproducible workflows  
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 - [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
-  *End‑to‑end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*  
+  End‑to‑end project: data collection, cleaning, EDA, visualization, predictive modeling.  
 
-- [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
-  *Data visualization project highlighting economic trends with Python & Plotly*  
+- [Model Comparison Visuals](link to repo/plots)  
+  Accuracy comparison across Logistic Regression, KNN, SVM, Decision Tree.  
 
-- [Interactive Dashboards](#) *(coming soon)*  
-  *Recruiter‑friendly dashboards with Plotly Dash and Tableau*  
-
----
-
-## 🎓 Certificates
-- ✅ IBM Data Science Professional Certificate  
-- 🎯 Google Data Analytics (in progress)  
+- [Bilingual Teaching Blocks](link to repo)  
+  Modular resources in English & Arabic for learners and recruiters.  
 
 ---
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- [GitHub](https://github.com/MOO242)  
+## 📚 Learning Journey
+- ✅ IBM Data Science Professional Certificate (completed)  
+- 📖 Google Data Analytics & Advanced Data Analytics (in progress)  
+- 🎯 Machine Learning Specialization (planned)  
 
 ---
 
-## 🌍 Bilingual Teaching Blocks
-I create **English + Arabic resources** to make data science accessible:  
-- 📊 EDA workflows explained step‑by‑step  
-- 🤖 Classification model comparisons (LogReg vs SVM vs Tree)  
-- 🗂 Recruiter‑friendly portfolio templates  
-
----
-
-✨ *Persistent, strategic, and teacher‑minded — I thrive on clarity, reproducibility, and empowering others through data science.*
+## 🌐 Let’s Connect
+- [LinkedIn](your-linkedin-url)  
+- [Portfolio](your-portfolio-link)  
+- [Email](mailto:your-email)
