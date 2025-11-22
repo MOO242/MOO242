@@ -5,7 +5,7 @@
   <h3>👋 Hi, I'm Mohamed Al Razek</h3>
   🧠 Data Scientist & Python Developer<br>
   📍 Based in Dubai, UAE<br>
-  📊 Certified IBM Data Science Professional Certificate<br>
+  📊 Certified IBM Data Science Professional Certificate<br> [![Coursera](https://img.shields.io/badge/Coursera-IBM_Data_Science-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/professional-cert/MDIJNK6ZMRVL)
   📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
 </p>
 
