@@ -1,8 +1,5 @@
 <img src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" alt="Header" width="100%" height="200">
 
-
-
-
 <p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250" align="right">
   <h3>👋 Hi, I'm Mohamed Al Razek</h3>
@@ -12,8 +9,7 @@
   📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
 </p>
 
-
-
+---
 
 ## 🧠 Technical Skills
 
@@ -44,10 +40,19 @@
 
 ---
 
-## 📬 Let's Stay Connected
+## 📂 Featured Projects
+- [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
+  *End-to-end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-al-razek-950a00104) 
+- [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
+  *Data visualization project highlighting economic trends with Python & Plotly*
+
+---
+
+## 📬 Let's Stay Connected
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-al-razek-950a00104)  
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-black?style=for-the-badge&logo=github)](https://github.com/MOO242)  
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:mohamedalboshey89@gmail.com)
 
-
+---
+✨ Persistent, strategic, and teacher‑minded — empowering others through data science.
