@@ -18,19 +18,27 @@
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🛠️ Tools & Skills
-- **Languages:** Python, SQL, R  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit‑learn  
-- **Visualization:** Power BI, Tableau, Plotly Dash, Folium  
-- **Cloud:** AWS, Google Cloud, IBM Cloud  
-- **Other:** RESTful APIs, Web Scraping, Excel Automation  
-
 ---
 
+## 🧠 Technical Skills
+
+### 💻 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 📊 Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### ☁️ Cloud & APIs
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+
+---
 
 ## 📂 Featured Projects
 - [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
@@ -50,9 +58,11 @@
 
 ---
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- [GitHub](https://github.com/MOO242)  
+## 📬 Let's Stay Connected
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-black?style=for-the-badge&logo=github)](https://github.com/MOO242)  
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
 ---
 
