@@ -1,4 +1,4 @@
-![Header](https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg)
+![Header](https://raw.githubusercontent.com/MOO242/MOO242/main/assets/banner.png)
 
 # 👋 Hi, I'm Mohamed Al Razek
 
