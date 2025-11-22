@@ -12,6 +12,7 @@
 ---
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)
 
 
 ## 🧠 Technical Skills
