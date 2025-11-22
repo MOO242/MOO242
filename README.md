@@ -11,8 +11,6 @@
 
 ---
 
-![Coursera](https://img.shields.io/badge/Coursera-IBM_Data_Science-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/professional-cert/MDIJNK6ZMRVL)
-
 ## 🧠 Technical Skills
 
 ### 💻 Programming & Data
