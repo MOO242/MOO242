@@ -2,14 +2,20 @@
 
 
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
-</p>
-
-👋 Hi, I'm Mohamed Al Razek  
-🎯 Self‑Taught Data Scientist & Python Developer  
-📍 Based in Dubai, UAE  
-📚 Certified: IBM Data Science Professional Certificate | Google Data Analytics (in progress)
+<table>
+  <tr>
+    <td>
+      <h3>👋 Hi, I'm Mohamed Al Razek</h3>
+      <p>🧠 Self-Taught Data Scientist & Python Developer<br>
+      📍 Based in Dubai, UAE<br>
+      📊 Certified IBM Data Science Professional Certificate<br>
+      🎯 Google Data Analytics (in progress)</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
+    </td>
+  </tr>
+</table>
 
 
 
