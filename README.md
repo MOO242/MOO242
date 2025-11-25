@@ -54,10 +54,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-black?style=for-the-badge&logo=github)](https://github.com/MOO242)  
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:mohamedalboshey89@gmail.com)
 
----
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOO242&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOO242&theme=radical)
 
 
 ✨ Persistent, strategic, and a problem-solver — empowering others through data science.
