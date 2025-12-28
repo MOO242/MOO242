@@ -40,34 +40,19 @@
 
 ---
 
-# 📜 Certificates
-
-This section contains verified certificates that support my Data Science, Analytics, and Business domain expertise.
-
+# 📜 Certificates  
 ---
 
 ## 🎓 Data Science & Analytics
-- **Google Data Analytics Certificate**
-- **Google Advanced Data Analytics (In Progress)**
-- **IBM Data Science Professional Certificate**
-- **CS50: Computer Science for Python Programming**
+
+- **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/PEQGYVW0JCZT)**  
+
+- **Google Advanced Data Analytics (In Progress)**  
+
+- **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL)**  
+
 
 ---
 
-## 🧠 Machine Learning & Programming
-- **Python Programming (CS50)**
-- **Applied Data Science Modules**
-- **ML Foundations & Specializations**
 
----
 
-## 🏨 Business & Domain Expertise
-- **Hotel Revenue Management**
-- **Advanced Hospitality Revenue Management: Pricing & Demand Strategies**
-- **HDI Certificate of Completion**
-
----
-
-## 📁 File Naming Convention
-
-To keep this folder clean and professional, certificates follow this naming format:
