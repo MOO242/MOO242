@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="230" align="right">
   <h3>👋 Hi, I'm Mohamed Al Razek</h3>
   🧠 Data Scientist & Python Developer<br>
-  📍 Based in Dubai, UAE<br>
-  📊 Certified IBM Data Science Professional Certificate<br>
+  📍 Dubai, UAE<br>
+  🎓 IBM Data Science Professional Certificate<br>
   📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
 </p>
 
@@ -38,14 +38,15 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
+---
+
 # 📜 Certificates
 
-This folder contains verified certificates that support my Data Science, Analytics, and Business domain expertise.
+This section contains verified certificates that support my Data Science, Analytics, and Business domain expertise.
 
 ---
 
 ## 🎓 Data Science & Analytics
-
 - **Google Data Analytics Certificate**
 - **Google Advanced Data Analytics (In Progress)**
 - **IBM Data Science Professional Certificate**
@@ -54,7 +55,6 @@ This folder contains verified certificates that support my Data Science, Analyti
 ---
 
 ## 🧠 Machine Learning & Programming
-
 - **Python Programming (CS50)**
 - **Applied Data Science Modules**
 - **ML Foundations & Specializations**
@@ -62,7 +62,6 @@ This folder contains verified certificates that support my Data Science, Analyti
 ---
 
 ## 🏨 Business & Domain Expertise
-
 - **Hotel Revenue Management**
 - **Advanced Hospitality Revenue Management: Pricing & Demand Strategies**
 - **HDI Certificate of Completion**
@@ -72,15 +71,3 @@ This folder contains verified certificates that support my Data Science, Analyti
 ## 📁 File Naming Convention
 
 To keep this folder clean and professional, certificates follow this naming format:
-
----
-
-## 📂 Featured Projects
-
-- [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
-  *End-to-end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*
-
-- [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
-  *Data visualization project highlighting economic trends with Python & Plotly*
-
----
