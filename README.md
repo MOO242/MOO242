@@ -38,9 +38,45 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
+# 📜 Certificates
+
+This folder contains verified certificates that support my Data Science, Analytics, and Business domain expertise.
+
+---
+
+## 🎓 Data Science & Analytics
+
+- **Google Data Analytics Certificate**
+- **Google Advanced Data Analytics (In Progress)**
+- **IBM Data Science Professional Certificate**
+- **CS50: Computer Science for Python Programming**
+
+---
+
+## 🧠 Machine Learning & Programming
+
+- **Python Programming (CS50)**
+- **Applied Data Science Modules**
+- **ML Foundations & Specializations**
+
+---
+
+## 🏨 Business & Domain Expertise
+
+- **Hotel Revenue Management**
+- **Advanced Hospitality Revenue Management: Pricing & Demand Strategies**
+- **HDI Certificate of Completion**
+
+---
+
+## 📁 File Naming Convention
+
+To keep this folder clean and professional, certificates follow this naming format:
+
 ---
 
 ## 📂 Featured Projects
+
 - [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
   *End-to-end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*
 
@@ -48,12 +84,3 @@
   *Data visualization project highlighting economic trends with Python & Plotly*
 
 ---
-
-## 📬 Let's Stay Connected
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-al-razek-950a00104)  
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-black?style=for-the-badge&logo=github)](https://github.com/MOO242)  
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:mohamedalboshey89@gmail.com)
-
-
-
-✨ Persistent, strategic, and a problem-solver — empowering others through data science.
