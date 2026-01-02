@@ -11,11 +11,14 @@
 
 ---
 
-# 🧩 About Me
+<h1>🧩 About Me</h1>
 
-I build data-driven solutions that combine analytical precision with creative problem-solving.
-My work combines Python, SQL, ML models, and visualization to transform raw data into clear, actionable insights.
+<p>
+I build data-driven solutions that combine analytical precision with creative problem-solving.<br>
+My work combines Python, SQL, ML models, and visualization to transform raw data into clear, actionable insights.<br>
 I’m driven by curiosity, structure, and the belief that great storytelling makes data unforgettable.
+</p>
+
 ---
 
 # 🧠 Technical Skills
