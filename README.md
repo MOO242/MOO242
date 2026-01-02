@@ -13,10 +13,9 @@
 
 # 🧩 About Me
 
-I build data‑driven solutions that combine analytical precision with creative problem‑solving.  
-My work combines **Python, SQL, ML Models, and visualisation** to transform raw data into clear, actionable insights.  
-I’m driven by curiosity, structure, and the belief that great storytelling makes data unforgettable.
-
+I build data‑driven systems that balance analytical precision with creative problem‑solving.  
+My work blends **Python, SQL, machine learning, and visualization** to turn raw data into clear, actionable insights.  
+I’m driven by curiosity, structure, and the belief that data becomes unforgettable when it’s told with intention.
 ---
 
 # 🧠 Technical Skills
@@ -79,5 +78,4 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 - **LinkedIn:** <a href="https://www.linkedin.com/in/mohamed-al-razek-950a00104/">🔗 LinkedIn</a>
 - **Email:** mohamedalboshey89@gmail.com
 
----/a>
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Always learning and always building. Always improving.*
