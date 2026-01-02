@@ -59,15 +59,18 @@
 
 ## 📂 Featured Projects
 
-- **[IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)**  
-  *End-to-end workflow: API + Web Scraping → Wrangling → EDA → Dashboards → Classification Models*
+### 🔹 [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)
+*End‑to‑end workflow: API + Web Scraping → Data Wrangling → EDA → Dashboards → Classification Models*
 
-- **[Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)**  
-  *Data visualization project highlighting economic trends with Python & Plotly*
+---
 
-- [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)
-*R | tidyverse | ggplot2 | Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations*
+### 🔹 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)
+*Data visualization project exploring global economic trends using Python & Plotly*
 
+---
+
+### 🔹 [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)
+*R | tidyverse | ggplot2 — Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations*
 
 ---
 
