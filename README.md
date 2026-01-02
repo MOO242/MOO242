@@ -48,14 +48,6 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 
 ---
 
-# 🚀 Currently Working On
-- Google Advanced Data Analytics Certificate  
-- R Markdown portfolio reports (Bellabeat, Palmer Penguins)  
-- Python machine learning case studies for recruiters  
-- Modular dashboards in Power BI & Tableau  
-
----
-
 # 📜 Certificates
 
 ## 🎓 Data Science & Analytics
