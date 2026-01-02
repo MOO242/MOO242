@@ -65,6 +65,9 @@
 - **[Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)**  
   *Data visualization project highlighting economic trends with Python & Plotly*
 
+- ** [ Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)**
+
+
 ---
 
 
