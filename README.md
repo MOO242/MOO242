@@ -78,4 +78,4 @@ I’m driven by curiosity, structure, and the belief that data becomes unforgett
 - **LinkedIn:** <a href="https://www.linkedin.com/in/mohamed-al-razek-950a00104/">🔗 LinkedIn</a>
 - **Email:** mohamedalboshey89@gmail.com
 
-⭐ *Always learning and always building. Always improving.*
+⭐ *Always learning. Always building. Always evolving.*
