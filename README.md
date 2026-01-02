@@ -2,18 +2,27 @@
 
 <p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="230" align="right">
-  <h3>👋 Hi, I'm Mohamed Al Razek</h3>
-  🧠 Data Scientist & Python Developer<br>
-  📍 Dubai, UAE<br>
-  🎓 IBM Data Science Professional Certificate<br>
-  📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
+  
+  <h2>👋 Hi, I'm Mohamed Al Razek</h2>
+  🧠 Data Scientist & Python Developer  
+  📍 Dubai, UAE  
+  🎓 IBM Data Science Professional Certificate  
+  📁 Portfolio: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>  
 </p>
 
 ---
 
-## 🧠 Technical Skills
+# 🧩 About Me
 
-### 💻 Programming & Data
+I build data‑driven solutions that combine analytical precision with creative problem‑solving.  
+My work blends **Python, R, SQL, and visualization** to turn raw data into clear, actionable insights.  
+I’m driven by curiosity, structure, and the belief that great storytelling makes data unforgettable.
+
+---
+
+# 🧠 Technical Skills
+
+## 💻 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -27,37 +36,37 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-9DC209?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-1A73E8?style=for-the-badge&logo=google&logoColor=white)
 
-### 📊 Visualization
+## 📊 Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ☁️ Cloud & APIs
+## ☁️ Cloud & APIs
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
-# 📜 Certificates  
+# 🚀 Currently Working On
+- Google Advanced Data Analytics Certificate  
+- R Markdown portfolio reports (Bellabeat, Palmer Penguins)  
+- Python machine learning case studies for recruiters  
+- Modular dashboards in Power BI & Tableau  
+
 ---
+
+# 📜 Certificates
 
 ## 🎓 Data Science & Analytics
-
 - **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/PEQGYVW0JCZT)**  
-
 - **Google Advanced Data Analytics (In Progress)**  
-
 - **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL)**  
 
-
 ---
 
-
----
-
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ### 🔹 [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)
 *End‑to‑end workflow: API + Web Scraping → Data Wrangling → EDA → Dashboards → Classification Models*
@@ -74,6 +83,10 @@
 
 ---
 
+# 📫 Connect With Me
+- **LinkedIn:** *[Add your link here](https://www.linkedin.com/in/mohamed-al-razek-950a00104/)*  
+- **Email:** *mohamedalboshey89@gmail.com*  
 
+---
 
-
+⭐ *Always learning. Always building. Always improving.*
