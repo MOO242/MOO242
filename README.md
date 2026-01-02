@@ -75,9 +75,9 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 ---
 
 # 📫 Connect With Me
-- **LinkedIn:** *[Add your link here](https://www.linkedin.com/in/mohamed-al-razek-950a00104/)*  
-- **Email:** *mohamedalboshey89@gmail.com*  
 
+- **LinkedIn:** [linkedin.com/in/mohamed-al-razek-950a00104](https://www.linkedin.com/in/mohamed-al-razek-950a00104/)
+- **Email:** mohamedalboshey89@gmail.com
 ---
 
 ⭐ *Always learning. Always building. Always improving.*
