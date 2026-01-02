@@ -66,7 +66,7 @@
   *Data visualization project highlighting economic trends with Python & Plotly*
 
 - [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)
-  *R | tidyverse | ggplot2 | Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations*
+*R | tidyverse | ggplot2 | Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations*
 
 
 ---
