@@ -55,24 +55,28 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 ## 🎓 Data Science & Analytics
 - **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/PEQGYVW0JCZT)**  
 - **Google Advanced Data Analytics (In Progress)**  
-- **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL)**  
-
----
+- **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL)**
+  
 
 # 📂 Featured Projects
 
-### 🔹 [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)
+### 🔹 [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
 *End‑to‑end workflow: API + Web Scraping → Data Wrangling → EDA → Dashboards → Classification Models*
 
 ---
 
-### 🔹 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)
+### 🔹 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
 *Data visualization project exploring global economic trends using Python & Plotly*
 
 ---
 
-### 🔹 [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)
+### 🔹 [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)  
 *R | tidyverse | ggplot2 — Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations*
+
+---
+
+### 🔹 [Hotel Price Prediction & Demand Forecasting](https://github.com/MOO242/Hotel-Price-Prediction-Forecasting)  
+*Python | Pandas | Scikit‑Learn | Revenue Management • Data Auditing • Feature Engineering • Domain‑Driven Imputation*
 
 ---
 
