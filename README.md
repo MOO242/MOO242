@@ -75,10 +75,14 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 
 ---
 
-### 🔹 [Hotel Price Prediction & Demand Forecasting](https://github.com/MOO242/Hotel-Price-Prediction-Forecasting)  
+### 🔹 [Hotel Price Prediction & Demand Forecasting](https://github.com/MOO242/Hotel-Price-Prediction-Forecasting V1)  
 *Python | Pandas | Scikit‑Learn | Revenue Management • Data Auditing • Feature Engineering • Domain‑Driven Imputation*
 
 ---
+
+### 🔹 [Hotel Price Forecasting V2](https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-)
+*Python • Pandas • Scikit‑Learn • Revenue Management  
+Data Auditing • Feature Engineering • Domain‑Driven Imputation • Forecasting Pipeline*
 
 # 📫 Connect With Me
 
