@@ -88,9 +88,8 @@ Data Auditing • Feature Engineering • Domain‑Driven Imputation • Forecas
 
 ---
 
-### 🔹 Hotel Demand Forecasting V3
-A production‑ready forecasting pipeline using Python, SQL, and Power BI.  
-🔗 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V3">View Project</a>
+### 🔹 [Hotel Demand Forecasting V3](https://github.com/MOO242/Hotel-Demand-Forecasting-V3)
+A production‑ready forecasting pipeline using Python, SQL, and Power BI. 
 
 ---
 
