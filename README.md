@@ -7,15 +7,16 @@
   🧠 Data Scientist & Python Developer<br>
   📍 Dubai, UAE<br>
   🎓 IBM Data Science Professional Certificate<br>
-  📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a></p>
+  📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
+</p>
 
 ---
 
 <h1>🧩 About Me</h1>
 
 <p>
-I build data-driven solutions that combine analytical precision with creative problem-solving.<br>
-My work combines Python, SQL, ML models, and visualization to transform raw data into clear, actionable insights.<br>
+I build data-driven solutions that combine analytical precision with creative problem‑solving.<br>
+My work blends Python, SQL, machine learning, and visualization to transform raw data into clear, actionable insights.<br>
 I’m driven by curiosity, structure, and the belief that great storytelling makes data unforgettable.
 </p>
 
@@ -55,38 +56,47 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 ## 🎓 Data Science & Analytics
 - **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/PEQGYVW0JCZT)**  
 - **Google Advanced Data Analytics (In Progress)**  
-- **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL)**
-  
+- **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL)**  
+
+---
 
 # 📂 Featured Projects
 
-### 🔹 [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)  
+### 🔹 [IBM Data Science Capstone](https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone)
 *End‑to‑end workflow: API + Web Scraping → Data Wrangling → EDA → Dashboards → Classification Models*
 
 ---
 
-### 🔹 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)  
+### 🔹 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)
 *Data visualization project exploring global economic trends using Python & Plotly*
 
 ---
 
-### 🔹 [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)  
+### 🔹 [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)
 *R | tidyverse | ggplot2 — Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations*
 
 ---
 
-### 🔹 [Hotel Price Prediction & Demand Forecasting V1](https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.1)  
+### 🔹 [Hotel Price Prediction & Demand Forecasting V1](https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.1)
 *Python | Pandas | Scikit‑Learn | Revenue Management • Data Auditing • Feature Engineering • Domain‑Driven Imputation*
 
 ---
 
 ### 🔹 [Hotel Price Forecasting V2](https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-)
-*Python • Pandas • Scikit‑Learn • AWS * Revenue Management  
+*Python • Pandas • Scikit‑Learn • AWS • Revenue Management  
 Data Auditing • Feature Engineering • Domain‑Driven Imputation • Forecasting Pipeline*
+
+---
+
+### 🔹 Hotel Demand Forecasting V3
+A production‑ready forecasting pipeline using Python, SQL, and Power BI.  
+🔗 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V3">View Project</a>
+
+---
 
 # 📫 Connect With Me
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/mohamed-al-razek-950a00104/">🔗 LinkedIn</a>
-- **Email:** mohamedalboshey89@gmail.com
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mohamed-al-razek-950a00104/">🔗 LinkedIn</a>  
+- **Email:** mohamedalboshey89@gmail.com  
 
 ⭐ *Always learning. Always building. Always evolving.*
