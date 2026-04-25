@@ -55,7 +55,6 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 
 ## 🎓 Data Science & Analytics
 - **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/PEQGYVW0JCZT)**  
-- **Google Advanced Data Analytics (In Progress)**  
 - **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL)**  
 
 ---
