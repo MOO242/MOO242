@@ -93,7 +93,7 @@ A production‑ready forecasting pipeline using Python, SQL, and Power BI.
 
 
 
-### 🔹 [Hotel-Performance-Optimizer](https://github.com/MOO242/Hotel-Performance-Optimizer.git) )
+### 🔹 [Hotel-Performance-Optimizer](https://github.com/MOO242/Hotel-Performance-Optimizer.git) 
 *Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Revenue Management • Forecasting Pipeline*
 A production‑ready hotel performance optimiser using Python, SQL, and Power BI. 
 
