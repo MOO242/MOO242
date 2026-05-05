@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" alt="Header" width="100%" height="200">
+<img src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1777912235984.jpg" alt="Header" width="100%" height="200">
 
 <p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="230" align="right">
