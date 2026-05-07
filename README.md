@@ -67,11 +67,6 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 
 ---
 
-### 🔹 [Top 10 Global Economies by GDP](https://github.com/MOO242/Top-10-global-economies-by-GDP)
-*Data visualization project exploring global economic trends using Python & Plotly*
-
----
-
 ### 🔹 [Bellabeat Wellness Analysis (Google Data Analytics Capstone)](https://github.com/MOO242/google-data-analytics-capstone)
 *R | tidyverse | ggplot2 — Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations*
 
