@@ -1,4 +1,4 @@
-src="<img width="1400" height="350" alt="1777912235984" src="https://github.com/user-attachments/assets/fa86cc9f-a4aa-4449-ae4e-53515a059d1e" /> " alt="Header" width="100%" height="200">
+<img width="1400" height="350" alt="1777912235984" src="https://github.com/user-attachments/assets/fa86cc9f-a4aa-4449-ae4e-53515a059d1e" /> alt="Header" width="100%" height="200">
 
 
 <p>
