@@ -90,9 +90,6 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 <h3>🔹 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.1">Hotel Price Prediction & Demand Forecasting V1</a></h3>
 <p><em>Python • Pandas • Scikit‑Learn • Revenue Management • Feature Engineering</em></p>
 
-<h3>🔹 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-">Hotel Price Forecasting V2</a></h3>
-<p><em>Python • Pandas • Scikit‑Learn • AWS • Forecasting Pipeline</em></p>
-
 <h3>🔹 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V3">Hotel Demand Forecasting V3</a></h3>
 <p><em>Python • SQL • Power BI • Forecasting Pipeline</em></p>
 
