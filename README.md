@@ -96,7 +96,7 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 <h3>🔹 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer.git">Hotel Performance Optimizer</a></h3>
 <p><em>Python • SQL • Power BI • Forecasting • Revenue Management</em></p>
 
-<h3>🔹 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-No-Deploy">>Hotel-Performance-Optimizer-Phase-2-No-Deploy</a></h3>
+<h3>🔹 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-No-Deploy">Hotel-Performance-Optimizer-Phase-2-No-Deploy</a></h3>
 <p><em>Python • SQL • Power BI • Forecasting • Revenue Management Airflow • dbt • SQL • MLflow • FastAPI • Streamlit</em></p>
 
 <h3>🔹 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS">Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS</a></h3>
