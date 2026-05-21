@@ -104,7 +104,7 @@ I’m driven by curiosity, structure, and the belief that great storytelling mak
 <h3>🔹 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone">IBM Data Science Capstone</a></h3>
 <p><em>API + Web Scraping → Data Wrangling → EDA → Dashboards → Classification Models</em></p>
 
-<h3>🔹 <a href="https://github.com/MOO242/google-data-analytics-capstone">Bellabeat Wellness Analysis</a></h3>
+<h3>🔹 <a href="https://github.com/MOO242/google-data-analytics-capstone">Bellabeat Wellness Analysi -  Google Data Analytics Capstone</a></h3>
 <p><em>R | tidyverse | ggplot2 — EDA • Sleep Efficiency • Business Insights</em></p>
 
 <h3>🔹 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.1">Hotel Price Prediction & Demand Forecasting V1</a></h3>
