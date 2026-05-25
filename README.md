@@ -9,7 +9,7 @@
        alt="Coding GIF" width="230" align="right">
 
   <h2>👋 Hi, I'm Mohamed Al Razek</h2>
-  📊 Business Intelligence & Analytics | 🏨 Hospitality Operations (8+ yrs, Marriott)<br>
+  📊 Business Intelligence & Analytics | 🏨 Hospitality Operations (9+ yrs HotelOps)<br>
   📍 Dubai, UAE<br>
   🎓 IBM Data Science Professional Certificate<br>
   📂 <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Portfolio</a> •
