@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src=https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face/blob/main/1779354620213.jpg alt="Portfolio Banner">
+  <img width="100%" src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1779354620213.jpg" alt="Portfolio Banner">
 </p>
 
 
@@ -9,9 +9,9 @@
        alt="Coding GIF" width="230" align="right">
 
   <h2>👋 Hi, I'm Mohamed Al Razek</h2>
-  📊 Business Intelligence & Analytics | 🏨 Hospitality Operations (9+ yrs HotelOps)<br>
+  📊 BI & Analytics | Revenue Operations | 9+ yrs Commercial Ops<br>
   📍 Dubai, UAE<br>
-  🎓 IBM Data Science Professional Certificate<br>
+  🎓 IBM Data Science Professional Certificate | Cornell Hotel School<br>
   📂 <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Portfolio</a> •
   🤗 <a href="https://huggingface.co/spaces/MoAlrazek/HotelPerformanceOptimizer">Live Demo</a>
 </p>
@@ -21,9 +21,9 @@
 <h1>🧩 About Me</h1>
 
 <p>
-Hospitality operations professional transitioning into <strong>Business Intelligence, Reporting & Analytics</strong>.<br>
-I build production‑ready dashboards, forecasting pipelines, and data‑driven decision tools — grounded in real commercial KPIs like RevPAR, ADR, Channel Mix, and Segmentation.<br>
-My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to transform hotel data into clear, actionable revenue insights.
+BI & Analytics professional with 9+ years in commercial operations — revenue management, channel analytics, and reporting.<br>
+I build production‑ready dashboards, forecasting pipelines, and data‑driven decision tools grounded in real commercial KPIs: RevPAR, ADR, Channel Mix, and Segmentation.<br>
+My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to transform commercial data into clear, actionable revenue insights.
 </p>
 
 ---
@@ -79,24 +79,31 @@ My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to t
 <h2>🏨 Domain Expertise</h2>
 <p>
   Revenue Management • Demand Forecasting • Channel Analytics • Segmentation • Loyalty Programs<br>
-  Hospitality KPIs: RevPAR • ADR • Occupancy • Digital Mix
+  Commercial KPIs: RevPAR • ADR • Occupancy • Digital Mix • Bonvoy
 </p>
 
 ---
 
 <h1>📜 Certificates</h1>
 
+<h2>🎓 Hospitality & Revenue Management</h2>
+<ul>
+  <li><strong>Certificate in Revenue Management</strong> — Cornell Hotel School (eCornell)</li>
+  <li><strong>Advanced Hospitality Revenue Management: Pricing & Demand Strategies</strong> — Cornell Hotel School (eCornell)</li>
+</ul>
+
 <h2>🎓 Data Science & Analytics</h2>
 <ul>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/PEQGYVW0JCZT"><strong>Google Data Analytics Certificate</strong></a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/MDIJNK6ZMRVL"><strong>IBM Data Science Professional Certificate</strong></a></li>
+  <li><strong>CS50P: Introduction to Programming with Python</strong> — HarvardX</li>
 </ul>
 
 ---
 
 <h1>📂 Featured Projects</h1>
 
-<h3>⭐ <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face">Hotel Performance Optimizer (HPO) — Full Stack</a></h3>
+<h3>⭐ <a href="https://github.com/MOO242/Hotel-Performance-Optimizer">Hotel Performance Optimizer (HPO) — Full Stack ML</a></h3>
 <p>
   Config‑driven ML pipeline: Rate Forecaster (Random Forest, R²=0.80) + Demand Forecaster (XGBoost, R²=0.76).<br>
   FastAPI + Streamlit + Docker Compose + MLflow tracking. Power BI dashboard (4 pages: Portfolio Overview, Channels, Segmentation, What‑If Forecast).<br>
@@ -112,7 +119,7 @@ My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to t
 <p><em>Revenue management focused: price prediction, data auditing, demand patterns.</em><br>
 <em>Python • Pandas • scikit‑learn</em></p>
 
-<h3>🔹 <a href="https://github.com/MOO242/google-data-analytics-capstone">Bellabeat Wellness Analysis — Google Capstone</a></h3>
+<h3>🔹 <a href="https://github.com/MOO242/google-data-analytics-capstone-Google-Data-Analytics-Capstone">Bellabeat Wellness Analysis — Google Capstone</a></h3>
 <p><em>EDA with business recommendations — sleep efficiency, activity patterns, wellness insights.</em><br>
 <em>R • tidyverse • ggplot2</em></p>
 
@@ -131,4 +138,4 @@ My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to t
   📧 <strong>Email:</strong> mohamedalboshey89@gmail.com
 </p>
 
-<p><strong>⭐ Operations practitioner building analytical systems that turn hotel data into revenue decisions.</strong></p>
+<p><strong>⭐ BI & Analytics professional building systems that turn commercial data into revenue decisions.</strong></p>
