@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/MOO242/Hotel-Demand-Forecasting-V2/blob/main/1783202389145.jpg" alt="Portfolio Banner">
+  <img width="100%" src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg" alt="Portfolio Banner">
   
 </p>
 
