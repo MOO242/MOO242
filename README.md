@@ -112,6 +112,17 @@ My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to t
   🤗 <a href="https://huggingface.co/spaces/MoAlrazek/HotelPerformanceOptimizer">Live Demo</a>
 </p>
 
+<p>
+  🏨
+  <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2"
+     target="_blank"
+     rel="noopener noreferrer">
+    <strong>Hotel Performance Optimizer V2 (HPOv2) – Commercial Analytics & Revenue Optimization Platform</strong>
+  </a><br>
+  End-to-end hospitality analytics project designed to help hotel leadership identify revenue opportunities, understand performance drivers, forecast future demand, and optimize commercial strategy through Snowflake, dbt, SQL, Python, and Power BI.
+</p>
+
+  
 <h3>🔹 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">Hotel Demand Forecasting V2</a></h3>
 <p><em>End‑to‑end forecasting pipeline with seven‑model comparison, quality gates, and custom exception handling.</em><br>
 <em>Python • SQL • Power BI • scikit‑learn</em></p>
