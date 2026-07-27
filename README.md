@@ -123,7 +123,7 @@ I build production‑ready dashboards, forecasting pipelines, and data‑driven 
 </p>
 
   
-<h3>🔹 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">Hotel Demand Forecasting V2</a></h3>
+<h3>🔹 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">Hotel Demand Forecasting Pipeline</a></h3>
 <p><em>End‑to‑end forecasting pipeline with seven‑model comparison, quality gates, and custom exception handling.</em><br>
 <em>Python • SQL • Power BI • scikit‑learn</em></p>
 
