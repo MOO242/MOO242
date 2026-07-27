@@ -101,41 +101,75 @@ I build production‑ready dashboards, forecasting pipelines, and data‑driven 
 
 ---
 
-<h1>📂 Featured Projects</h1>
+<h2>📊 Featured Projects</h2>
 
-<h3>⭐ <a href="https://github.com/MOO242/Hotel-Performance-Optimizer">Hotel Performance Optimizer (HPO) — Full Stack ML</a></h3>
-<p>
-  Config‑driven ML pipeline: Rate Forecaster (Random Forest, R²=0.80) + Demand Forecaster (XGBoost, R²=0.76).<br>
-  FastAPI + Streamlit + Docker Compose + MLflow tracking. Power BI dashboard (4 pages: Portfolio Overview, Channels, Segmentation, What‑If Forecast).<br>
-  <em>Python • scikit‑learn • FastAPI • Streamlit • Docker • MLflow • Power BI • YAML config architecture</em><br>
-  🤗 <a href="https://huggingface.co/spaces/MoAlrazek/HotelPerformanceOptimizer">Live Demo</a>
-</p>
+<ul>
 
-<p>
-  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2"
-    >
+  <!-- FLAGSHIP PROJECT -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face">
+      <strong>Hotel Performance Optimizer (HPO) — Full Stack</strong>
+    </a><br>
+    <em>Config‑driven ML pipeline (Rate Forecaster R²=0.80 + Demand Forecaster R²=0.76) with
+    FastAPI + Streamlit + Docker Compose + MLflow tracking. Power BI dashboard (4 pages:
+    Portfolio Overview, Channels, Segmentation, What‑If Forecast). Deployed live on HuggingFace.</em><br>
+    <strong>Stack:</strong> Python • scikit‑learn • FastAPI • Streamlit • Docker • MLflow • Power BI • YAML config architecture<br>
+    🔗 <a href="https://huggingface.co/spaces/MoAlrazek/HotelPerformanceOptimizer">Live Demo</a>
+  </li>
+ <!-- PROJECT 2 -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2"
+     target="_blank"
+     rel="noopener noreferrer">
     <strong>Hotel Performance Optimizer V2 (HPOv2) – Commercial Analytics & Revenue Optimization Platform</strong>
   </a><br>
-  End-to-end hospitality analytics project built around a custom star schema, following a descriptive → diagnostic → predictive → prescriptive analytics roadmap — currently in the exploratory and statistical analysis phase.<br>
-  <em>PostgreSQL • Python (Pandas, SQLAlchemy) • Jupyter • Power BI</em>
-</p>
+  End-to-end hospitality analytics project designed to help hotel leadership identify revenue opportunities, understand performance drivers, forecast future demand, and optimize commercial strategy through Snowflake, dbt, SQL, Python, and Power BI.
+  </li>  
 
-  
-<h3>🔹 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">Hotel Demand Forecasting Pipeline</a></h3>
-<p><em>End‑to‑end forecasting pipeline with seven‑model comparison, quality gates, and custom exception handling.</em><br>
-<em>Python • SQL • Power BI • scikit‑learn</em></p>
+  <!-- PROJECT 3 -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">
+      <strong>Hotel Demand Forecasting V2</strong>
+    </a><br>
+    <em>End‑to‑end forecasting pipeline with seven‑model comparison, quality gates, and custom exception handling.</em><br>
+    <strong>Stack:</strong> Python • SQL • Power BI • scikit‑learn
+  </li>
 
-<h3>🔹 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V1">Hotel Price Prediction & Demand Forecasting V1</a></h3>
-<p><em>Revenue management focused: price prediction, data auditing, demand patterns.</em><br>
-<em>Python • Pandas • scikit‑learn</em></p>
+  <br>
 
-<h3>🔹 <a href="https://github.com/MOO242/google-data-analytics-capstone-Google-Data-Analytics-Capstone">Bellabeat Wellness Analysis — Google Capstone</a></h3>
-<p><em>EDA with business recommendations — sleep efficiency, activity patterns, wellness insights.</em><br>
-<em>R • tidyverse • ggplot2</em></p>
+  <!-- PROJECT 4 -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V1">
+      <strong>Hotel Price Prediction & Demand Forecasting V1</strong>
+    </a><br>
+    <em>Revenue management focused: price prediction, data auditing, demand patterns.</em><br>
+    <strong>Stack:</strong> Python • Pandas • scikit‑learn
+  </li>
 
-<h3>🔹 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone">IBM Data Science Capstone</a></h3>
-<p><em>Full ML workflow: data collection → EDA → modeling → evaluation.</em><br>
-<em>Python • scikit‑learn • Plotly</em></p>
+  <br>
+
+  <!-- PROJECT 5 -->
+  <li>
+    📱 <a href="https://github.com/MOO242/google-data-analytics-capstone">
+      <strong>Bellabeat Wellness Analysis (Google Capstone)</strong>
+    </a><br>
+    <em>EDA with business recommendations — sleep efficiency, activity patterns, wellness insights.</em><br>
+    <strong>Stack:</strong> R • tidyverse • ggplot2
+  </li>
+
+  <br>
+
+  <!-- PROJECT 6 -->
+  <li>
+    🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone">
+      <strong>IBM Data Science Capstone</strong>
+    </a><br>
+    <em>Full ML workflow: data collection → EDA → modeling → evaluation.</em><br>
+    <strong>Stack:</strong> Python • scikit‑learn • Plotly
+  </li>
+
+</ul>
+
 
 ---
 
