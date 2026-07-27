@@ -112,8 +112,7 @@ I build production‑ready dashboards, forecasting pipelines, and data‑driven 
 </p>
 
 <p>
-  🏨
-  <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2"
+  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2"
     >
     <strong>Hotel Performance Optimizer V2 (HPOv2) – Commercial Analytics & Revenue Optimization Platform</strong>
   </a><br>
