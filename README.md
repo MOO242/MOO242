@@ -23,8 +23,7 @@
 
 <p>
 BI & Analytics professional with 9+ years in commercial operations — revenue management, channel analytics, and reporting.<br>
-I build production‑ready dashboards, forecasting pipelines, and data‑driven decision tools grounded in real commercial KPIs: RevPAR, ADR, Channel Mix, and Segmentation.<br>
-My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to transform commercial data into clear, actionable revenue insights.
+I build production‑ready dashboards, forecasting pipelines, and data‑driven decision tools grounded in real commercial KPIs: RevPAR, ADR, Channel Mix, and Segmentation.
 </p>
 
 ---
@@ -119,7 +118,8 @@ My work blends <strong>SQL, Power BI, Python, and machine learning</strong> to t
      rel="noopener noreferrer">
     <strong>Hotel Performance Optimizer V2 (HPOv2) – Commercial Analytics & Revenue Optimization Platform</strong>
   </a><br>
-  End-to-end hospitality analytics project designed to help hotel leadership identify revenue opportunities, understand performance drivers, forecast future demand, and optimize commercial strategy through Snowflake, dbt, SQL, Python, and Power BI.
+  End-to-end hospitality analytics project built around a custom star schema, following a descriptive → diagnostic → predictive → prescriptive analytics roadmap — currently in the exploratory and statistical analysis phase.<br>
+  <em>PostgreSQL • Python (Pandas, SQLAlchemy) • Jupyter • Power BI</em>
 </p>
 
   
