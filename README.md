@@ -114,8 +114,7 @@ I build production‑ready dashboards, forecasting pipelines, and data‑driven 
 <p>
   🏨
   <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2"
-     target="_blank"
-     rel="noopener noreferrer">
+    >
     <strong>Hotel Performance Optimizer V2 (HPOv2) – Commercial Analytics & Revenue Optimization Platform</strong>
   </a><br>
   End-to-end hospitality analytics project built around a custom star schema, following a descriptive → diagnostic → predictive → prescriptive analytics roadmap — currently in the exploratory and statistical analysis phase.<br>
