@@ -132,7 +132,7 @@ I build production‑ready dashboards, forecasting pipelines, and data‑driven 
       <strong>Commercial Analytics Data Warehouse</strong>
     </a><br>
     <em>Medallion architecture (Bronze → Silver → Gold) consolidating ERP and CRM sources into a star schema, with SQL analytics on customer behavior, product performance, and sales trends.</em><br>
-    <strong>Stack:</strong> SQL • ETL • Data Modeling • Star Schema • Medallion Architecture
+    <strong>Stack:</strong> Snowflake • SQL • ETL • Data Modeling • Star Schema • Medallion Architecture
   </li>
 
   <!-- PROJECT 3 -->
