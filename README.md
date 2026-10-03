@@ -10,7 +10,7 @@
        alt="Coding GIF" width="230" align="right">
 
   <h2>👋 Hi, I'm Mohamed Al Razek</h2>
-  📊 BI & Analytics | Revenue Operations | 9+ yrs Commercial Ops<br>
+  📊 BI & Analytics | Revenue Operations | 10 + yrs Commercial Ops<br>
   📍 Dubai, UAE<br>
   🎓 IBM Data Science Professional Certificate | Cornell Hotel School<br>
   📂 <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Portfolio</a> •
