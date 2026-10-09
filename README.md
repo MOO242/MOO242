@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1627" height="805" alt="image" src="https://github.com/user-attachments/assets/08d2af3d-62c1-48b7-b3ad-747ca0f5437a" /><p align="center">
   <img width="100%" src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg" alt="Portfolio Banner">
   
 </p>
@@ -129,11 +129,12 @@ I build production‑ready dashboards, forecasting pipelines, and data‑driven 
   <!-- PROJECT: DATA WAREHOUSE -->
   <li>
     🗄️ <a href="https://github.com/MOO242/Commercial-Analytics-Data-Warehouse-Snowflake-SQL">
-      <strong>Commercial Analytics Data Warehouse</strong>
+      <strong>Commercial Analytics Data Warehouse | Snowflake + SQL</strong>
     </a><br>
-    <em>Medallion architecture (Bronze → Silver → Gold) consolidating ERP and CRM sources into a star schema, with SQL analytics on customer behavior, product performance, and sales trends.</em><br>
-    <strong>Stack:</strong> Snowflake • SQL • ETL • Data Modeling • Star Schema • Medallion Architecture
+    <em>End-to-end Snowflake warehouse built on the Medallion architecture (Bronze → Silver → Gold). It integrates CRM and ERP data into a star schema using stored procedures and quality checks at every layer. SQL analytics then cover sales trends, YoY performance,             part-to-whole contribution, and customer and product segmentation, delivered as BI-ready reporting views.</em><br>
+    <strong>Stack:</strong> Snowflake • SQL • Stored Procedures • Window Functions • Data Modeling • Star Schema • Data Quality • Medallion Architecture
   </li>
+
 
   <!-- PROJECT 3 -->
   <li>
