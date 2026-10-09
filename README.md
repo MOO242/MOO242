@@ -1,8 +1,4 @@
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="Coding GIF" width="230" align="right">
-
-  <h2>👋 Hi, I'm Mohamed Al Razek</h2>
+<h2>👋 Hi, I'm Mohamed Al Razek</h2>
   📊 BI & Analytics | Revenue Operations | 10+ yrs Commercial Ops<br>
   📍 Dubai, UAE<br>
   🎓 IBM Data Science Professional Certificate | Cornell Hotel School<br>
