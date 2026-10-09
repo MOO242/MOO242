@@ -1,10 +1,3 @@
-<img width="1627" height="805" alt="image" src="https://github.com/user-attachments/assets/08d2af3d-62c1-48b7-b3ad-747ca0f5437a" /><p align="center">
-  <img width="100%" src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg" alt="Portfolio Banner">
-  
-</p>
-
-
-<!-- HERO -->
 <p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        alt="Coding GIF" width="230" align="right">
