@@ -1,3 +1,12 @@
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg?raw=true" 
+    alt="Portfolio Banner"
+  />
+</p>
+
+
 <h2>👋 Hi, I'm Mohamed Al Razek</h2>
   📊 BI & Analytics | Revenue Operations | 10+ yrs Commercial Ops<br>
   📍 Dubai, UAE<br>
