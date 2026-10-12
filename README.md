@@ -20,7 +20,7 @@
 <h1>🧩 About Me</h1>
 
 <p>
-BI & Analytics professional with 9+ years in commercial operations — revenue management, channel analytics, and reporting.<br>
+BI & Analytics professional with 10+ years in commercial operations — revenue management, channel analytics, and reporting.<br>
 I build production‑ready dashboards, forecasting pipelines, and data‑driven decision tools grounded in real commercial KPIs: RevPAR, ADR, Channel Mix, and Segmentation.
 </p>
 
