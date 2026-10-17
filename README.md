@@ -76,7 +76,7 @@ Commercial Analytics and Revenue Management professional with 10+ years in hospi
 <h2>🏨 Domain Expertise</h2>
 <p>
   Revenue Management • Demand Forecasting • Channel Analytics • Segmentation • Loyalty Programs<br>
-  Commercial KPIs: RevPAR • ADR • Occupancy • Digital Mix • Bonvoy
+  Commercial KPIs: RevPAR • ADR • Occupancy • Digital Mix 
 </p>
 
 ---
