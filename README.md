@@ -8,7 +8,7 @@
 
 
 <h2>👋 Hi, I'm Mohamed Al Razek</h2>
-  📊 BI & Analytics | Revenue Operations | 10+ yrs Commercial Ops<br>
+  📊 Data Analytics & Data Science (ML) | Revenue Operations | Power BI · SQL · Python · Forecasting | 10+ Years Commercial Ops
   📍 Dubai, UAE<br>
   🎓 IBM Data Science Professional Certificate | Cornell Hotel School<br>
   📂 <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Portfolio •
