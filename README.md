@@ -8,8 +8,8 @@
 
 
 <h2>👋 Hi, I'm Mohamed Al Razek</h2>
-  📊 Data Analytics & Data Science (ML) | Revenue Operations | Power BI · SQL · Python · Forecasting | 10+ Years Commercial Ops
-  📍 Dubai, UAE<br>
+  📊 Data Analytics & Data Science (ML) | Revenue Operations | Power BI · SQL · Python · Forecasting | 10+ Years Commercial Ops <br>
+  📍 Dubai, UAE <br>
   🎓 IBM Data Science Professional Certificate | Cornell Hotel School<br>
   📂 <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Portfolio •
   🤗 <a href="https://huggingface.co/spaces/MoAlrazek/HotelPerformanceOptimizer">Live Demo</a>
