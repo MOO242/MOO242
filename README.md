@@ -191,8 +191,6 @@ Commercial Analytics and Revenue Management professional with 10+ years in hospi
       <strong>SQL for Hospitality Analytics</strong>
     </a><br>
     <em>A 20-lesson SQL series from <code>SELECT</code> to joins and reconciliation. Every query runs in both Snowflake and PostgreSQL, with interactive demos for each lesson.</em><br>
-    <strong>Status:</strong> Lesson 1 live, Lesson 2 (filtering rows) next<br>
-    ▶️ <a href="https://www.youtube.com/@MohamedAlRazek">Watch on YouTube</a>
   </li>
 </ul>
 
