@@ -21,7 +21,7 @@
 <h1>🧩 About Me</h1>
 
 <p>
-Commercial Analytics and Revenue Management professional with 10+ years in hospitality operations, 8+ of them at Marriott across front-line reservations, multi-property revenue analysis, and enterprise Reservations & Revenue Systems support. Fluent in the commercial KPI stack (RevPAR, ADR, Occupancy, Digital Mix, Bonvoy, Channels, Segmentation), with Power BI (DAX), SQL/dbt, and forecasting skills built through certification and independent projects. Track record of turning commercial data into pricing, forecasting, and demand decisions across UAE properties, leading a team of three, and training analysts on RMS workflows and reporting tools. Recent work includes the Hotel Performance Optimiser, an end-to-end analytics system spanning Power BI, dbt/SQL, and production-deployed forecasting models.
+Commercial Analytics and Revenue Management professional with 10+ years in hospitality operations, 8+ of them at Marriott across front-line reservations, multi-property revenue analysis, and enterprise Reservations & Revenue Systems support. Fluent in the commercial KPI stack (RevPAR, ADR, Occupancy, Digital Mix, Channels, Segmentation), with Power BI (DAX), SQL/dbt, and forecasting skills built through certification and independent projects. Track record of turning commercial data into pricing, forecasting, and demand decisions across UAE properties, leading a team of three, and training analysts on RMS workflows and reporting tools. Recent work includes the Hotel Performance Optimiser, an end-to-end analytics system spanning Power BI, dbt/SQL, and production-deployed forecasting models.
 </p>
 
 ---
