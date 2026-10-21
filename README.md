@@ -178,7 +178,7 @@ Commercial Analytics and Revenue Management professional with 10+ years in hospi
 
 ---
 
-<h1>🎓 Hospitality Analytics Academy</h1>
+<h1>🎓 SQL for Hospitality Analytics</h1>
 
 <p>
   Free, hands-on data education built from 10+ years in hotel revenue and commercial operations.
